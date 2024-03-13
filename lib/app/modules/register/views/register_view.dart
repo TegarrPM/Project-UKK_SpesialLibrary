@@ -84,7 +84,7 @@ class RegisterView extends GetView<RegisterController> {
                     enableInteractiveSelection: false,
                     textAlign: TextAlign.start,
                     decoration: InputDecoration(
-                      hintText: "@tergarsaputra",
+                      hintText: "Tegarpangestu",
                       filled: true,
                       label: Text("Username"),
                       // border: OutlineInputBorder(),
@@ -111,7 +111,7 @@ class RegisterView extends GetView<RegisterController> {
                     enableInteractiveSelection: false,
                     textAlign: TextAlign.start,
                     decoration: InputDecoration(
-                      hintText: "Tegar@gmail.com",
+                      hintText: "Tegar@smk.belajar.id",
                       filled: true,
                       label: Text("Email"),
                       // border: OutlineInputBorder(),

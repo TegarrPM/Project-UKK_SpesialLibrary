@@ -54,7 +54,7 @@ class LoginView extends GetView<LoginController> {
                         enableInteractiveSelection: false,
                         textAlign: TextAlign.start,
                         decoration: InputDecoration(
-                          hintText: "Tegar@gmail.com",
+                          hintText: "Tegar@smk.belajar.id",
                           filled: true,
                           label: Text("Email"),
                           // border: OutlineInputBorder(),
